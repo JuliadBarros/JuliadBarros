@@ -3,7 +3,7 @@
 Meu nome é Júlia, tenho 22 anos. Finalizei uma graduação em Ciência da Computação e agora, eu iniciei uma pós-graduação em Ciências de Dados na Universidade Federal de Pernambuco - UFPE. 
 
 Atualmente, possuo conhecimento consolidado em:
-Python, MySQL, PowerBI e Excel.
+Python- Pandas, MySQL, PowerBI e Excel.
   
 Também estou começando a aprender sobre o mundo dos dados, com técnicas de ETL e aprendizado de máquina.
 </p>
